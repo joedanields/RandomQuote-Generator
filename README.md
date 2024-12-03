@@ -39,7 +39,7 @@ Random-Quote-Generator/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/joedaniels/random-quote-generator.git
+   git clone https://github.com/joedanields/random-quote-generator.git
    ```
 
 2. Navigate to the project directory:
