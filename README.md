@@ -67,6 +67,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This project was created and designed by **Joe Daniel**.  
 Feel free to use it, share it, and make it your own! 🌟
 
----
-
-Let me know if you'd like to make any further changes! 😊
